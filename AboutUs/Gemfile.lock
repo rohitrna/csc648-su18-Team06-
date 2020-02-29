@@ -742,7 +742,7 @@ GEM
       activerecord (>= 3.0)
     popper_js (1.12.9)
     public_suffix (3.0.2)
-    puma (3.11.4)
+    puma (3.12.3)
     rack (2.0.5)
     rack-test (1.0.0)
       rack (>= 1.0, < 3)
@@ -817,7 +817,6 @@ GEM
     sshkit (1.17.0)
       net-scp (>= 1.1.2)
       net-ssh (>= 2.8.0)
-
     table_print (1.5.6)
     thor (0.20.0)
     thread_safe (0.3.6)
@@ -868,7 +867,7 @@ DEPENDENCIES
   listen (>= 3.0.5, < 3.2)
   mini_magick
   mysql2
-  puma (~> 3.11)
+  puma (~> 3.12)
   rails (~> 5.2.0)
   ransack
   recaptcha (~> 4.3, >= 4.3.1)
